@@ -4,3 +4,8 @@
 ZCZC W00 100 L02 Synchronous Session
 ZCZC W00 20 L04 Setting up Github Pages
 ZCZC W00 5 L01 Checking and doing Pop Quizzes
+ZCZC W01 15 L04 Removing Jekyll from GHPages
+ZCZC W01 40 L05 Reading about vim, regex, bash, awk, sed, etc
+ZCZC W01 100 L02 Synchronous Session
+ZCZC W01 35 L21 Installing Debian
+ZCZC W01 30 L08 Trying to make some bash scripts
