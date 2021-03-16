@@ -12,4 +12,12 @@ ZCZC W01 30 L08 Trying to make some bash scripts
 ZCZC W01 30 L09 Discuss about debian configuration with TA
 ZCZC W01 40 L08 Finding out about Neovim and setup it in my laptop
 ZCZC W01 30 L22 Watching video about Docker crashcourse
-ZCZC W01 30 L22 Watching video about Debian customization 
+ZCZC W01 30 L22 Watching video about Debian customization
+ZCZC W02 100 L02 Synchronous Session
+ZCZC W02 40 L22 Watching C-Language crashcourse
+ZCZC W02 45 L25 Trying C-language excerise on hackerrank
+ZCZC W02 30 L07 Trying the Week-02 Demo
+ZCZC W02 20 L01 Reading the Week-02 slide
+ZCZC W02 30 L05 Reading about encryption and GPG
+ZCZC W02 40 L21 Debugging and setting apt-get due to error on installing GPG 
+ZCZC W02 35 L09 Consulting about configuration to TA
