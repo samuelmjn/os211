@@ -21,3 +21,13 @@ ZCZC W02 20 L01 Reading the Week-02 slide
 ZCZC W02 30 L05 Reading about encryption and GPG
 ZCZC W02 40 L21 Debugging and setting apt-get due to error on installing GPG 
 ZCZC W02 35 L09 Consulting about configuration to TA
+ZCZC W03 100 L02 Synchronous Session
+ZCZC W03 40 L22 Watching C-Language crashcourse
+ZCZC W03 60 L07 Trying the Week-03 Demo
+ZCZC W03 30 L06 Reading the Week-03 slide
+ZCZC W03 45 L05 GSGS about linux filesystem structure
+ZCZC W03 35 L09 Consulting about FUSE to TA
+ZCZC W03 35 L21 Setting SSH from VBox to Host OS
+ZCZC W03 90 L08 Reinstalling Debian with custom filesystem structure
+ZCZC W03 35 L21 Debugging some errors on doing the W03 assignment
+ZCZC W03 40 L04 Summarize interesting links for W03 while GSGS-ing
