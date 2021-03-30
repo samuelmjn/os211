@@ -31,3 +31,13 @@ ZCZC W03 35 L21 Setting SSH from VBox to Host OS
 ZCZC W03 90 L08 Reinstalling Debian with custom filesystem structure
 ZCZC W03 35 L21 Debugging some errors on doing the W03 assignment
 ZCZC W03 40 L04 Summarize interesting links for W03 while GSGS-ing
+ZCZC W04 100 L02 Synchronous Session
+ZCZC W04 70 L07 Trying the Week-04 Demo
+ZCZC W04 35 L06 Reading the Week-04 slide
+ZCZC W04 45 L22 Watching about Memory Allocation from Neso Academy Youtube
+ZCZC W04 40 L05 GSGS about memory allocation in C
+ZCZC W04 45 L21 Reinstalling and debugging C compiler
+ZCZC W04 60 L25 Trying C-language about pointers
+ZCZC W04 40 L21 Debugging errors from week-04 demo
+ZCZC W04 30 L09 Consulting about C Language to TA
+ZCZC W04 50 L04 Summarize interesting links for W04 while GSGS-ing
