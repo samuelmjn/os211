@@ -4,3 +4,6 @@ ZCZC W01 Sasfort
 ZCZC W02 stevensim226
 ZCZC W02 shanikatysha
 ZCZC W02 Trigonometr1
+ZCZC W03 Trigonometr1
+ZCZC W03 stevensim226
+ZCZC W03 tarameccaluna
