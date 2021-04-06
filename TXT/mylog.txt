@@ -41,3 +41,11 @@ ZCZC W04 60 L25 Trying C-language about pointers
 ZCZC W04 40 L21 Debugging errors from week-04 demo
 ZCZC W04 30 L09 Consulting about C Language to TA
 ZCZC W04 50 L04 Summarize interesting links for W04 while GSGS-ing
+ZCZC W05 100 L02 Synchronous Session
+ZCZC W05 75 L07 Trying the Week-05 Demo
+ZCZC W05 45 L06 Reading the Week-05 slide
+ZCZC W05 50 L21 Debugging error cannot output .toprc
+ZCZC W05 60 L22 Watching about virtual memory from Youtube
+ZCZC W05 30 L09 Consulting about demo to TA
+ZCZC W05 50 L04 Summarize interesting links for W05 while GSGS-ing
+ZCZC W05 40 L08 Trying a demo about virtual memory with C Language

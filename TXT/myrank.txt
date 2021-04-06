@@ -7,3 +7,6 @@ ZCZC W02 Trigonometr1
 ZCZC W03 Trigonometr1
 ZCZC W03 stevensim226
 ZCZC W03 tarameccaluna
+ZCZC W04 stevensim226
+ZCZC W04 Theophilus-Lukas
+ZCZC W04 Trigonometr1
