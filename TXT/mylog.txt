@@ -49,3 +49,11 @@ ZCZC W05 60 L22 Watching about virtual memory from Youtube
 ZCZC W05 30 L09 Consulting about demo to TA
 ZCZC W05 50 L04 Summarize interesting links for W05 while GSGS-ing
 ZCZC W05 40 L08 Trying a demo about virtual memory with C Language
+ZCZC W06 100 L02 Synchronous Session
+ZCZC W06 75 L07 Trying the Week-06 Demo
+ZCZC W06 45 L06 Reading the Week-06 slide
+ZCZC W06 60 L99 Week-06 Pop Quizzes
+ZCZC W06 60 L05 GSGS about concurrency
+ZCZC W06 30 L09 Consulting about demo to TA
+ZCZC W06 50 L05 Summarize interesting links for W05 while GSGS-ing
+ZCZC W06 30 L04 Preparing the GHPages for week06
