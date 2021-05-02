@@ -55,5 +55,13 @@ ZCZC W06 45 L06 Reading the Week-06 slide
 ZCZC W06 60 L99 Week-06 Pop Quizzes
 ZCZC W06 60 L05 GSGS about concurrency
 ZCZC W06 30 L09 Consulting about demo to TA
-ZCZC W06 50 L05 Summarize interesting links for W05 while GSGS-ing
+ZCZC W06 50 L05 Summarize interesting links for W06 while GSGS-ing
 ZCZC W06 30 L04 Preparing the GHPages for week06
+ZCZC W07 100 L02 Synchronous Session
+ZCZC W07 60 L99 Week-07 Pop Quizzes
+ZCZC W07 90 L07 Trying the Week-07 Demo
+ZCZC W07 45 L06 Reading the Week-7 slide
+ZCZC W07 60 L05 GSGS about mutex and semaphore
+ZCZC W07 30 L09 Consulting about demo to TA
+ZCZC W07 60 L05 Summarize interesting links for W07 while GSGS-ing
+ZCZC W07 30 L04 Preparing the GHPages for week07

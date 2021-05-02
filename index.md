@@ -11,6 +11,7 @@ Qapla, Jolan Tru!<br>
 * [Week 4]({{ site.baseurl }}/W04/)
 * [Week 5]({{ site.baseurl }}/W05/)
 * [Week 6]({{ site.baseurl }}/W06/)
+* [Week 7]({{ site.baseurl }}/W07/)
 
 ### TXTs
 * [myrank]({{ site.baseurl }}/TXT/myrank.txt)
