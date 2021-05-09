@@ -65,3 +65,11 @@ ZCZC W07 60 L05 GSGS about mutex and semaphore
 ZCZC W07 30 L09 Consulting about demo to TA
 ZCZC W07 60 L05 Summarize interesting links for W07 while GSGS-ing
 ZCZC W07 30 L04 Preparing the GHPages for week07
+ZCZC W08 100 L02 Synchronous Session
+ZCZC W08 60 L99 Week-08 Pop Quizzes
+ZCZC W08 120 L07 Trying the Week-08 LFS
+ZCZC W08 45 L06 Reading the Week-8 slide
+ZCZC W08 70 L05 GSGS about LFS from the official site
+ZCZC W08 30 L09 Consulting about LFS to TA
+ZCZC W08 60 L05 Summarize interesting links for W08 while GSGS-ing
+ZCZC W08 30 L04 Preparing the GHPages for week08
