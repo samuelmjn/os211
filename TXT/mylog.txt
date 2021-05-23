@@ -73,3 +73,8 @@ ZCZC W08 70 L05 GSGS about LFS from the official site
 ZCZC W08 30 L09 Consulting about LFS to TA
 ZCZC W08 60 L05 Summarize interesting links for W08 while GSGS-ing
 ZCZC W08 30 L04 Preparing the GHPages for week08
+ZCZC W09 240 L07 Doing LFS chapter 5 until 7
+ZCZC W09 45 L06 Reading the Week-9 slide
+ZCZC W09 40 L09 Consulting about LFS to TA and friends
+ZCZC W09 60 L05 Summarize interesting links for W09 while GSGS-ing
+ZCZC W09 30 L04 Preparing the GHPages for week09
