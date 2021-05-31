@@ -78,3 +78,6 @@ ZCZC W09 45 L06 Reading the Week-9 slide
 ZCZC W09 40 L09 Consulting about LFS to TA and friends
 ZCZC W09 60 L05 Summarize interesting links for W09 while GSGS-ing
 ZCZC W09 30 L04 Preparing the GHPages for week09
+ZCZC W10 540 L07 Doing LFS 
+ZCZC W09 45 L06 Reading the Week-10 slide
+ZCZC W09 30 L04 Preparing the GHPages for week10

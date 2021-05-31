@@ -22,3 +22,6 @@ ZCZC W07 Trigonometr1
 ZCZC W08 Theophilus-Lukas
 ZCZC W08 Sasfort
 ZCZC W08 Trigonometr1
+ZCZC W09 SinusCosinusTangenTheophilus-Lukas
+ZCZC W09 Theophilus-Lukas
+ZCZC W09 shanikatysha
